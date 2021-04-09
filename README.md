@@ -21,15 +21,9 @@ d)All this is contained inside a while loop so that the user can get as much as 
 ![flowchart.png](https://github.com/leenajenniferedwin/COVID-19-INFORMATION-PORTAL/blob/main/flowchart.png)
  
 
-
-
-
-
-3.2 Class diagram
-
  
 
-3.3 Hardware and Software requirements
+3.2 Hardware and Software requirements
 1.	Hardware:-
  	     a)Processor- Intel Pentium i3 or higher
 	     b)Operating system - Mac os, Windows, linux (anyone)
@@ -39,7 +33,6 @@ d)All this is contained inside a while loop so that the user can get as much as 
 	     b)C and C++ extension installed on VScode.
 
 
-3.4SNAPSHOTS
 
 
 
