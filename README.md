@@ -18,7 +18,7 @@ d)All this is contained inside a while loop so that the user can get as much as 
 
 3.1 Flow diagram of the project
 
-https://github.com/leenajenniferedwin/COVID-19-INFORMATION-PORTAL/blob/main/flowchart.png
+[flowchart.png](https://github.com/leenajenniferedwin/COVID-19-INFORMATION-PORTAL/blob/main/flowchart.png)
  
 
 
