@@ -14,3 +14,43 @@ a)The program starts with the declaration of a base class known as “states” 
 b)The inherited classes have functions which read from the files which display covid related data of that state. The data like “number of active cases”,”number of positive cases”, “number of recovered” , “number of deceased cases” are stored in the “.txt” files which are being called in the program using file handling concepts. These files can be later modified as per the updated data. All these functions are executed when they are called in the main function. 
 c)These virtual functions  of the derived class are called by the base class pointer .Along with this ,sop(Standard Operating Procedure) guidelines and emergency helpline details  will be displayed 
 d)All this is contained inside a while loop so that the user can get as much as much information as they want. Later there is also an exit option , to terminate the program.
+
+
+3.1 Flow diagram of the project
+
+
+ 
+
+
+
+
+
+3.2 Class diagram
+
+ 
+
+3.3 Hardware and Software requirements
+1.	Hardware:-
+ 	     a)Processor- Intel Pentium i3 or higher
+	     b)Operating system - Mac os, Windows, linux (anyone)
+	     c)Memory - 300 MB or higher
+2.	Software:-
+	     a)Visual studio code 2018 or later
+	     b)C and C++ extension installed on VScode.
+
+
+3.4SNAPSHOTS
+
+
+
+  
+
+ 
+
+
+
+
+	 
+
+ 
+         
